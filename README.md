@@ -13,6 +13,9 @@ For this DatingApp I used:
 - mongodb atlas
 - Heroku
 
+## Database
+![db screenshot](https://github.com/Kalemis/Assignments/blob/master/artboards/Schermafbeelding%202019-04-12%20om%2010.20.19.png)
+
 ## Installation 
 Clone the repository: 
 ```
